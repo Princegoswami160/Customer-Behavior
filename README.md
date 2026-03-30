@@ -105,7 +105,7 @@ Customer segmentation insights
   - Focus on high-revenue age groups
   - Personalize campaigns based on behavior
 - 🛒 Product Positioning
-Highlight top-rated and best-selling products
+  - Highlight top-rated and best-selling products
 - 💸 Review Discount Strategy
   - Balance discounts with profitability
   - Identify discount-dependent products
@@ -120,11 +120,14 @@ Highlight top-rated and best-selling products
 <img width="1436" height="835" alt="Screenshot 2026-03-24 173901" src="https://github.com/user-attachments/assets/28409fdb-ecf1-4fc2-a6e4-bc3f13d70077" />
 
 📁 Project Structure
-├── data/
-├── notebooks/
-├── sql/
-├── dashboard/
-├── README.md
+├── Bussiness Problem Document/
+├── Report/
+├── Presentation/
+├── Jupyter Notebook/
+├── Dashboard/
+├── SQl/
+├── Data/
+├── Readme.md
 
 ## 📌 Conclusion
 
