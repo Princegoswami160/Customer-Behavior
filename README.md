@@ -1,5 +1,4 @@
-![Dashboard Preview](<img width="1346" height="727" alt="Screenshot 2026-03-24 173901" src="https://github.com/user-attachments/assets/c60c054a-e5e4-4791-86c5-f7d40c71749b" />
-)
+
 
 
 ## 🛍️ Customer Shopping Behavior Analysis
