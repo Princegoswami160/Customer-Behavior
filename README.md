@@ -130,13 +130,13 @@ Customer segmentation insights
 
 ├── Jupyter Notebook/
 
-├── Dashboard/
+├── README.md/
 
-├── SQl/
+├── Power BI DASHBOARD/
 
-├── Data/
+├── SQL/
 
-├── Readme.md
+├── Dataset
 
 ## 📌 Conclusion
 
