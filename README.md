@@ -1,6 +1,3 @@
-![Dashboard Preview](./Thumbnail.png)
-
-
 ## 🛍️ Customer Shopping Behavior Analysis
 
 ## 📌 Project Overview
