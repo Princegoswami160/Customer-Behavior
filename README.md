@@ -119,14 +119,23 @@ Customer segmentation insights
 ## 📷 Dashboard Preview
 <img width="1436" height="835" alt="Screenshot 2026-03-24 173901" src="https://github.com/user-attachments/assets/28409fdb-ecf1-4fc2-a6e4-bc3f13d70077" />
 
+
 📁 Project Structure
+
 ├── Bussiness Problem Document/
+
 ├── Report/
+
 ├── Presentation/
+
 ├── Jupyter Notebook/
+
 ├── Dashboard/
+
 ├── SQl/
+
 ├── Data/
+
 ├── Readme.md
 
 ## 📌 Conclusion
