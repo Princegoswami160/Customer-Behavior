@@ -90,7 +90,7 @@ An interactive dashboard was built using Power BI to visualize insights.
  
  Average Purchase Amount: $59.76
  
-⭐ Average Rating: 3.75
+ Average Rating: 3.75
 
 - ## Dashboard Insights:
     - Revenue & sales by category
@@ -102,23 +102,23 @@ An interactive dashboard was built using Power BI to visualize insights.
 ##  Business Recommendations
 
 -  Boost Subscriptions
-  - Offer exclusive benefits to subscribers
-  - Encourage non-subscribers to convert
+   - Offer exclusive benefits to subscribers
+   - Encourage non-subscribers to convert
 -  Targeted Marketing
-  - Focus on high-revenue age groups
-  - Personalize campaigns based on behavior
+   - Focus on high-revenue age groups
+   - Personalize campaigns based on behavior
 -  Product Positioning
-  - Highlight top-rated and best-selling products
+   - Highlight top-rated and best-selling products
 -  Review Discount Strategy
-  - Balance discounts with profitability
-  - Identify discount-dependent products
+   - Balance discounts with profitability
+   - Identify discount-dependent products
 -  Customer Loyalty Programs
-  - Reward repeat customers
-  - Convert returning users into loyal customers
+   - Reward repeat customers
+   - Convert returning users into loyal customers
 -  Tools & Technologies
-  - Python (Pandas, NumPy) – Data Cleaning & EDA
-  - PostgreSQL – Data Analysis
-  - Power BI – Data Visualization & Dashboard
+   - Python (Pandas, NumPy) – Data Cleaning & EDA
+   - PostgreSQL – Data Analysis
+   - Power BI – Data Visualization & Dashboard
 ##  Dashboard Preview
 <img width="1436" height="835" alt="Screenshot 2026-03-24 173901" src="https://github.com/user-attachments/assets/28409fdb-ecf1-4fc2-a6e4-bc3f13d70077" />
 
