@@ -1,6 +1,6 @@
-## 🛍️ Customer Shopping Behavior Analysis
+##  Customer Shopping Behavior Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing customer shopping behavior using transactional data from 3,900 purchases across multiple product categories.
 
@@ -13,12 +13,12 @@ Customer segmentation
 
 These insights help businesses make data-driven decisions to improve marketing strategies, customer retention, and revenue growth.
 
-## 📊 Dataset Summary
+##  Dataset Summary
 
 Total Records: 3,900
 Total Features: 18
 
-## 🔑 Key Attributes
+##  Key Attributes
 
 Customer Demographics
 
@@ -43,7 +43,7 @@ Purchase Frequency
 Review Rating
 Shipping Type
 
-## 🧹 Data Preprocessing (Python)
+##  Data Preprocessing (Python)
 
 Data cleaning and preparation were performed using Python (Pandas):
 
@@ -55,16 +55,16 @@ Imputed using median rating per category
 Standardized column names (snake_case)
 Removed redundant columns (promo_code_used)
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 Created age_group (Young Adult, Adult, Middle-aged, Senior)
 Created purchase_frequency_days
 Performed data consistency checks
 
-## 🗄️ SQL Analysis (PostgreSQL)
+##  SQL Analysis (PostgreSQL)
 
 After cleaning, data was loaded into PostgreSQL for business analysis.
 
-## 📈 Key Business Questions Answered:
+##  Key Business Questions Answered:
 
 Revenue comparison by gender
 High-spending customers using discounts
@@ -80,47 +80,47 @@ Top 3 products per category
 Revenue contribution by age group
 Relationship between repeat buyers and subscriptions
 
-## 📊 Dashboard (Power BI)
+##  Dashboard (Power BI)
 
 An interactive dashboard was built using Power BI to visualize insights.
 
-## 🔍 Key Metrics:
+##  Key Metrics:
 
-👥 Total Customers: 3.9K
-💰 Average Purchase Amount: $59.76
+ Total Customers: 3.9K
+ Average Purchase Amount: $59.76
 ⭐ Average Rating: 3.75
-📌 Dashboard Insights:
-Revenue & sales by category
-Customer distribution by subscription
-Sales & revenue by age group
-Category performance comparison
-Customer segmentation insights
+- ## Dashboard Insights:
+    - Revenue & sales by category
+    - Customer distribution by subscription
+    - Sales & revenue by age group
+    - Category performance comparison
+    - Customer segmentation insights
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
-- 🚀 Boost Subscriptions
+-  Boost Subscriptions
   - Offer exclusive benefits to subscribers
   - Encourage non-subscribers to convert
-- 🎯 Targeted Marketing
+-  Targeted Marketing
   - Focus on high-revenue age groups
   - Personalize campaigns based on behavior
-- 🛒 Product Positioning
+-  Product Positioning
   - Highlight top-rated and best-selling products
-- 💸 Review Discount Strategy
+-  Review Discount Strategy
   - Balance discounts with profitability
   - Identify discount-dependent products
-- 🔁 Customer Loyalty Programs
+-  Customer Loyalty Programs
   - Reward repeat customers
   - Convert returning users into loyal customers
-- 🛠️ Tools & Technologies
+-  Tools & Technologies
   - Python (Pandas, NumPy) – Data Cleaning & EDA
   - PostgreSQL – Data Analysis
   - Power BI – Data Visualization & Dashboard
-## 📷 Dashboard Preview
+##  Dashboard Preview
 <img width="1436" height="835" alt="Screenshot 2026-03-24 173901" src="https://github.com/user-attachments/assets/28409fdb-ecf1-4fc2-a6e4-bc3f13d70077" />
 
 
-📁 Project Structure
+## Project Structure
 
 ├── Bussiness Problem Document/
 
@@ -138,7 +138,7 @@ Customer segmentation insights
 
 ├── Dataset
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how combining Python, SQL, and Power BI can transform raw transactional data into meaningful business insights.
 
