@@ -87,8 +87,11 @@ An interactive dashboard was built using Power BI to visualize insights.
 ##  Key Metrics:
 
  Total Customers: 3.9K
+ 
  Average Purchase Amount: $59.76
+ 
 ⭐ Average Rating: 3.75
+
 - ## Dashboard Insights:
     - Revenue & sales by category
     - Customer distribution by subscription
