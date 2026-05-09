@@ -57,7 +57,9 @@ Removed redundant columns (promo_code_used)
 
 ##  Feature Engineering
 Created age_group (Young Adult, Adult, Middle-aged, Senior)
+
 Created purchase_frequency_days
+
 Performed data consistency checks
 
 ##  SQL Analysis (PostgreSQL)
